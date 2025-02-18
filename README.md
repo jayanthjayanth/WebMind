@@ -1,4 +1,4 @@
-# Smart Farming App
+# A.I Smart Farming App
 
 ## Overview
 The Smart Farming App is designed to help farmers and agricultural enthusiasts monitor and optimize plant growth. By tracking various environmental and growth factors, the app provides data-driven insights to improve yield and efficiency.
