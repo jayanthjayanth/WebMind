@@ -1,3 +1,3 @@
-# Some College Project
+# A.I Agent
 
 
